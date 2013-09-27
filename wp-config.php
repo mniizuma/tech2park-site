@@ -30,7 +30,7 @@ define('DB_USER', 'b40a2e125bbc06');
 define('DB_PASSWORD', '44ad7f44');
 
 /** MySQL のホスト名 */
-define('DB_HOST', 'ap-cdbr-azure-east-b.cloudapp.ne');
+define('DB_HOST', 'ap-cdbr-azure-east-b.cloudapp.net');
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define('DB_CHARSET', 'utf8');
