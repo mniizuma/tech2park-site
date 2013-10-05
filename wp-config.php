@@ -21,13 +21,13 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-define('DB_NAME', 'tech2wp');
+define('DB_NAME', 'tech2hp');
 
 /** MySQL データベースのユーザー名 */
-define('DB_USER', 'b40a2e125bbc06');
+define('DB_USER', 'b0b1ab78b4967f');
 
 /** MySQL データベースのパスワード */
-define('DB_PASSWORD', '44ad7f44');
+define('DB_PASSWORD', 'bd721955');
 
 /** MySQL のホスト名 */
 define('DB_HOST', 'ap-cdbr-azure-east-b.cloudapp.net');
